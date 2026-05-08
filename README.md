@@ -229,15 +229,6 @@ Research and technical reference work connected to defense-oriented technology e
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victobiz&show_icons=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victobiz&layout=compact" width="48%">
-</p>
-
----
-
 # Current Focus
 
 ```txt
