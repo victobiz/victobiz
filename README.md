@@ -241,6 +241,5 @@ interactive frontend experiences, and production-ready full-stack applications.
 # Contact
 
 ```txt
-GitHub: https://github.com/victobiz
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+GitHub: https://github.com/victobi
 ```
