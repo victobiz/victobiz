@@ -179,6 +179,11 @@ Angular • TypeScript • RxJS
   <img src="./assets/infinityapply-preview.png" width="90%" alt="Family Community Care Preview">
 </p>
 
+<p align="center">
+  <a href="https://github.com/victobiz/infinity-apply">
+    View the Infinity Apply project repository
+  </a>
+</p>
 
 ---
 
