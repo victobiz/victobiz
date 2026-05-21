@@ -174,11 +174,11 @@ Satirical Angular application parodying the modern online hiring process. Applic
 Angular • TypeScript • RxJS
 ```
 
+
 <p align="center">
-  <a href="https://github.com/victobiz/infinity-apply">
-    View the Infinity Apply project repository
-  </a>
+  <img src="./assets/infinityapply-preview.png" width="90%" alt="Family Community Care Preview">
 </p>
+
 
 ---
 
@@ -186,7 +186,7 @@ Angular • TypeScript • RxJS
 
 🌐 [discover.dtic.mil](https://discover.dtic.mil)
 
-Research and technical reference work connected to defense-oriented technology environments and government-adjacent software ecosystems.
+Main public page to Research and technical reference work connected to defense-oriented technology environments and government-adjacent software ecosystems. Worked on various linked applications and microservices.
 
 ### Highlights
 
