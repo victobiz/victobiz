@@ -54,6 +54,31 @@ JavaFX • Playwright • Git • CI/CD
 # Featured Projects
 
 ---
+## Deploy District
+
+🌐 [deploydistrict.com](https://deploydistrict.com)
+
+Helping startups and small businesses launch modern web infrastructure without needing to piece everything together from scratch.
+
+Deploy District turns common business and startup needs into streamlined, ready-to-deploy systems — making it easier to own your platform, operations, customer workflows, and scalable backend infrastructure from day one.
+
+Whether you need a customer portal, onboarding flow, marketplace, internal dashboard, automation layer, payment integration, or custom business platform, the goal is to provide flexible foundations that can grow with your business instead of locking you into rigid tools.
+
+### Platform Highlights
+
+↳ Startup-ready onboarding and workflow systems  
+↳ Flexible service and pricing architecture  
+↳ Relational backend and infrastructure design  
+↳ Scalable project workspace foundations  
+↳ Payment and subscription-ready structures  
+↳ Modular systems designed for customization and ownership  
+↳ Modern full-stack development using scalable technologies  
+
+### Stack
+
+```txt
+Next.js • Supabase • PostgreSQL • TypeScript • Stripe
+```
 
 ## MyTodayAngel
 
@@ -77,62 +102,6 @@ Marketplace platform for non-medical senior support services.
 React • Next.js • Stripe • Sharetribe • Checkr • Render
 ```
 
-<p align="center">
-  <img src="./assets/mytodayangel-preview.png" width="90%" alt="MyTodayAngel Preview">
-</p>
-
----
-
-## Deploy District
-
-🌐 [deploydistrict.com](https://deploydistrict.com)
-
-Business onboarding and service platform focused on scalable project workflows and service estimation.
-
-### Highlights
-
-↳ Multi-phase onboarding architecture  
-↳ Dynamic pricing engine concepts  
-↳ Supabase relational schema design  
-↳ Project workspace systems  
-↳ Service candidate mapping workflows  
-↳ Stripe-ready service management structures  
-
-### Stack
-
-```txt
-Next.js • Supabase • PostgreSQL • TypeScript • Stripe
-```
-
-<p align="center">
-  <img src="./assets/deploydistrict-preview.png" width="90%" alt="Deploy District Preview">
-</p>
-
----
-
-## Sumaj Tusuy
-
-🌐 [sumajtusuy.org](https://sumajtusuy.org)
-
-Interactive cultural organization website for a Peruvian dance group.
-
-### Highlights
-
-↳ Animated scrollytelling experience  
-↳ Dynamic map and region interactions  
-↳ Google Calendar API integration  
-↳ Responsive media-focused layouts  
-↳ Interactive cultural presentation design  
-
-### Stack
-
-```txt
-React • Next.js • GSAP • Pixi.js • Google Calendar API
-```
-
-<p align="center">
-  <img src="./assets/sumajtusuy-preview.png" width="90%" alt="Sumaj Tusuy Preview">
-</p>
 
 ---
 
@@ -181,14 +150,15 @@ Java • JavaFX
 ```
 
 <p align="center">
-  <img src="./assets/javafx-preview.png" width="90%" alt="JavaFX App Preview">
+  <a href="https://github.com/victobiz/HTMLEditor">
+    View the JavaFX HTML Editor project repository
+  </a>
 </p>
-
 ---
 
 ## Infinity Apply™
 
-Satirical Angular application parodying the modern online hiring process.
+Satirical Angular application parodying the modern online hiring process. Applicant for worse UI design
 
 ### Highlights
 
@@ -205,7 +175,9 @@ Angular • TypeScript • RxJS
 ```
 
 <p align="center">
-  <img src="./assets/infinityapply-preview.png" width="90%" alt="Infinity Apply Preview">
+  <a href="https://github.com/victobiz/infinity-apply">
+    View the Infinity Apply project repository
+  </a>
 </p>
 
 ---
@@ -223,10 +195,6 @@ Research and technical reference work connected to defense-oriented technology e
 ↳ Research-oriented technical workflows  
 ↳ General reference exposure involving DLA and DC3-related environments  
 
-<p align="center">
-  <img src="./assets/dtic-preview.png" width="90%" alt="DTIC Discovery Preview">
-</p>
-
 ---
 
 # Current Focus
@@ -241,5 +209,5 @@ interactive frontend experiences, and production-ready full-stack applications.
 # Contact
 
 ```txt
-GitHub: https://github.com/victobi
+GitHub: https://github.com/victobiz
 ```
